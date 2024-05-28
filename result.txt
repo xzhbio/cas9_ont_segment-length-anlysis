@@ -1,0 +1,7 @@
+T1:  class1:14   class2:0   class3:0   mapped:14   total:900
+T2:  class1:8   class2:0   class3:0   mapped:8   total:1551
+T3:  class1:6   class2:0   class3:3   mapped:9   total:913
+T4:  class1:20   class2:0   class3:3   mapped:23   total:1052
+T5:  class1:14   class2:0   class3:10   mapped:24   total:653
+T6:  class1:10   class2:0   class3:10   mapped:20   total:475
+T7:  class1:7   class2:1   class3:3   mapped:11   total:1158
